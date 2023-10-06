@@ -24,6 +24,7 @@ The link below is a online DEMO of the application run in Expo works on both And
 [Expo FoodAPP DEMO]([https://snack.expo.dev/@joseph_shen/calculator?platform=ios](https://snack.expo.dev/@joseph_shen/foodapp?platform=ios)
 
 [Screenshots]
+
 <img src="https://github.com/RoninSanta/Mobile_Project_2-FoodMenuAPP/assets/109457795/f7768828-7762-48be-8e1b-9277724d2789" width="250" height="500">
 <img src="https://github.com/RoninSanta/Mobile_Project_2-FoodMenuAPP/assets/109457795/a597333b-1d31-458a-acfd-bd696047914d" width="250" height="500">
 
