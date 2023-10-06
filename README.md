@@ -21,7 +21,7 @@ It is a **Food Ordering APP** created using Expo and React Native
 ## Online Demo ##
 The link below is a online DEMO of the application run in Expo works on both Andriod and IOS.
 
-[Expo FoodAPP DEMO]([https://snack.expo.dev/@joseph_shen/calculator?platform=ios](https://snack.expo.dev/@joseph_shen/foodapp?platform=ios)
+[Expo FoodAPP DEMO](https://snack.expo.dev/@joseph_shen/foodapp?platform=ios)
 
 [Screenshots]
 
