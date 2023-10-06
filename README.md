@@ -1,5 +1,5 @@
-# Mobile_Dev_Project-AmericanDeliOrderAPP
-This is the `Second` application I created using Expo
+# American Deli Food Ordering APP
+This is the `Second` application I created using Expo, check out the `first` one [here](https://github.com/RoninSanta/Mobile_Project_1-CalculatorAPP)
 
 It is a **Food Ordering APP** created using Expo and React Native
 [**Expo** is a framework to build React Native apps]
@@ -21,10 +21,10 @@ It is a **Food Ordering APP** created using Expo and React Native
 ## Online Demo ##
 The link below is a online DEMO of the application run in Expo works on both Andriod and IOS.
 
-[Expo FoodAPP DEMO]([https://snack.expo.dev/@joseph_shen/calculator?platform=ios](https://snack.expo.dev/@joseph_shen/foodapp?platform=ios))
+[Expo FoodAPP DEMO]([https://snack.expo.dev/@joseph_shen/calculator?platform=ios](https://snack.expo.dev/@joseph_shen/foodapp?platform=ios)
 
-[Screenshot]
-<img src="https://github.com/RoninSanta/Mobile_Project_2-FoodMenuAPP/assets/109457795/f7768828-7762-48be-8e1b-9277724d2789" width="300" height="500">
-<img src="https://github.com/RoninSanta/Mobile_Project_2-FoodMenuAPP/assets/109457795/a597333b-1d31-458a-acfd-bd696047914d" width="300" height="500">
+[Screenshots]
+<img src="https://github.com/RoninSanta/Mobile_Project_2-FoodMenuAPP/assets/109457795/f7768828-7762-48be-8e1b-9277724d2789" width="250" height="500">
+<img src="https://github.com/RoninSanta/Mobile_Project_2-FoodMenuAPP/assets/109457795/a597333b-1d31-458a-acfd-bd696047914d" width="250" height="500">
 
 
